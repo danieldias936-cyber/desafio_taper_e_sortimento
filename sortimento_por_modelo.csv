@@ -1,0 +1,16 @@
+"modelo","produto","n_toras_ha","volume_ha_m3"
+"hradetzky","laminacao",0,0
+"hradetzky","serraria",209.059233449477,14.66275911813
+"hradetzky","mourao_poste",6147.89005032908,189.754443436498
+"hradetzky","celulose",1204.02632597755,12.3636928830093
+"hradetzky","residual",0,8.34462632662261
+"kozak","laminacao",0,0
+"kozak","serraria",418.118466898955,28.4564824271248
+"kozak","mourao_poste",5849.78706929927,178.604920583003
+"kozak","celulose",1358.8850174216,13.7639377824523
+"kozak","residual",0,9.5880828353803
+"schopfer","laminacao",0,0
+"schopfer","serraria",228.416569879985,16.1054227591164
+"schopfer","mourao_poste",6062.71777003484,187.229694151916
+"schopfer","celulose",1254.35540069686,12.8383268730637
+"schopfer","residual",0,8.72503268916956
